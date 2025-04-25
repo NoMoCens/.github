@@ -1,12 +1,7 @@
-## Hi there 👋
+# NoMoCens
+NoMoCens is a collection of projects designed to allow users to freely explore the internet without restrictions.
 
-<!--
+### The Future of NoMoCens
+NoMoCens is a project that I made in freetime, to use at certain places. Soon however, I will no longer be at this place, therefore I'll not need to continue this.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The ending of NoMoCens will likely result in the project becoming fully open to use, with easy to deploy features, incase someone else needs this like I did.
